@@ -5,7 +5,6 @@ Classic Tetris game built in Python using Pygame. Without using LLMs.
 - Piece rotation
 - Collision detection
 - Line clearing
-- Score tracking
 
 ## How to run
 1. Install dependencies:
